@@ -4,6 +4,8 @@ set -ue
 CURRENT_PATH=$(cd `dirname $0`; pwd)
 cd ${CURRENT_PATH}
 
+echo ${CURRENT_PATH}
+
 # setup params
 INPUT_FOLDER=$1
 RESIZE_WIDTH=$2

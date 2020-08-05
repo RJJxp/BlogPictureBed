@@ -46,7 +46,7 @@ if __name__ == "__main__":
     out_dir = args.output_dir
     rename_type = args.rename_type
     renameIt(in_dir, out_dir, rename_type)
-    print("***************************************")
-    print("******* start renamePic script. *******")
-    print("***************************************")
+    print("******************************************")
+    print("******* finished renamePic script. *******")
+    print("******************************************")
     print("\n\n")

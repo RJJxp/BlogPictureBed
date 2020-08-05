@@ -32,7 +32,7 @@ if __name__ == "__main__":
     args = getArgs()
     input_dir = args.input_dir
     genTxt(input_dir)
-    print("***************************************")
-    print("******* start genFtxt script. *********")
-    print("***************************************")
+    print("*****************************************")
+    print("******* finshed genFtxt script. *********")
+    print("*****************************************")
     print("\n\n")
